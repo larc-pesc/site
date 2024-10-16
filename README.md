@@ -27,15 +27,20 @@ Mestrando
 ### Rodrigo Pagliusi
 Mestrando
 
-## Vagner do Almo
+### Vagner do Almo
 Mestrando
 
-## Aline Coutinho
+### Aline Coutinho
 Mestranda
 
 ## Assuntos de Interesse
 
-- 
+- Trustworty AI
+- Robustness
+- Recommender Systems
+- Fairness
+- Intelligent Systems
+- Language Models
 
 ## Publicações selecionadas
 

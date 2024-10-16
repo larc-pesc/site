@@ -1,6 +1,8 @@
 # Laboratório de Aprendizado Robusto e Confiável
-## PESC/COPPE/UFRJ
+PESC/COPPE/UFRJ
 Prof. Geraldo Zimbrão
+
+![Logo LARC](logo_larc.png)
 
 ## Pessoas
 
@@ -38,3 +40,7 @@ Mestranda
 ## Publicações selecionadas
 
 - 
+
+
+![Logo PESC](logo_pesc.png)
+![Logo COPPE](logo_coppe.jpg)
